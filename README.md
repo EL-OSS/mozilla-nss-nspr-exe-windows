@@ -1,8 +1,8 @@
 # mozilla-nss-nspr-exe-windows
 
-Branched from https://github.com/sergey-cheperis/nss-nspr-windows/
+Forked from https://github.com/sergey-cheperis/nss-nspr-windows/
 
-Ready to use Mozilla NSS 3.51.1 NSPR 4.25 exe binaries:
+Ready to use Mozilla NSS 3.51.1 NSPR 4.25 Windows exe binaries:
 
 ```
 addbuiltin.exe
